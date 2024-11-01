@@ -4,6 +4,6 @@
 
 - ## ✨ **My Discord** <br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1234552086499430444)](https://discord.com/users/906538336724852736)
+[![Discord Presence](https://lanyard.cnrad.dev/api/906538336724852736)](https://discord.com/users/906538336724852736)
 
 - 📫 How to reach me **discord.gg/scz**
