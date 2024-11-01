@@ -1,9 +1,9 @@
 ### Olá <code>Devs</code>, sejam bem vindos ao meu perfil do Github 👋
 
-<h1 align="center">Hi 👋, I'm Hardzy</h1>
+<h1 align="center">Hi 👋, I'm Shell</h1>
 
 - ## ✨ **My Discord** <br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1234552086499430444)](https://discord.com/users/1234552086499430444)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1234552086499430444)](https://discord.com/users/906538336724852736)
 
 - 📫 How to reach me **discord.gg/scz**
